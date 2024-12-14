@@ -6,6 +6,7 @@ import java.util.Arrays;
 * */
 public class problem3 {
     public static void main(String[] args) {
+
         int[] nums = {-2,1,-3,4,-1,2,1,-5,4};
         System.out.println("GIVEN ARRAY:: "+ Arrays.toString(nums));
         problem3 problem = new problem3();
